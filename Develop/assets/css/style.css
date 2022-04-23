@@ -43,7 +43,7 @@ header nav ul li {
 }
 /*HEADER STYLES END*/
 
-
+/* BODY STYLES START */
 a {
     color: #ffffff;
     text-decoration: none;
@@ -52,7 +52,9 @@ a {
 p {
     font-size: 16px;
 }
+/* BODY STYLES END */
 
+/* HERO STYLES START */
 .hero {
     height: 800px;
     width: 100%;
@@ -61,6 +63,7 @@ p {
     background-size: cover;
     background-position: center;
 }
+/* HERO STYLES END */
 
 /* CONTENT STYLES START */
 .content {
