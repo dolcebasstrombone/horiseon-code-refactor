@@ -1,19 +1,16 @@
-# Code Refactor Starter Code
+# Hoeriseon Code Refactor
 
-Grading Criteria
+## Goal
+* Change html to follow conventional accessibility standards
+* Condense CSS styles to be less redundant
+* Restructure code to follow a logical order
+* Ensure application functions and appears as in the mock-up
 
-github url submitted
-readme file with description, screen shot, and link to app
+## Mock-Up Reference
+[Reference for Horiseon-Homepage](./assets/images/mock-up.png)
 
-Changed div elements to schemantic elements such as nav, header, footer
-Condensed benefits section css for less redundant code
-added CSS comments
-condensed repeating CSS for the content styles
-restructured CSS to mirror html structure
-change benefits section tag to aside
-altered html title
-added id to search engine optimization
+## Website
+[Horiseon-Homepage](https://dolcebasstrombone.github.io/horiseon-code-refactor/)
 
-https://dolcebasstrombone.github.io/horiseon-code-refactor/
-
-.assets/images/mock-up.png
+## GitHub Repository
+[GitHub Repository](https://github.com/dolcebasstrombone/horiseon-code-refactor)
