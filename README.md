@@ -1,4 +1,4 @@
-# Hoeriseon Code Refactor
+# Horiseon Code Refactor
 
 ## Goal
 * Change html to follow conventional accessibility standards
