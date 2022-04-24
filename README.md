@@ -8,9 +8,7 @@
 
 ## Mock-Up Reference
 [Reference for Horiseon-Homepage](./assets/images/mock-up.png)
-
+## GitHub Repository
+[GitHub Repo for Horiseon-Homepage](https://github.com/dolcebasstrombone/horiseon-code-refactor)
 ## Website
 [Horiseon-Homepage](https://dolcebasstrombone.github.io/horiseon-code-refactor/)
-
-## GitHub Repository
-[GitHub Repository](https://github.com/dolcebasstrombone/horiseon-code-refactor)
