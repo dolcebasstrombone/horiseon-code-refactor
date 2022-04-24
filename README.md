@@ -7,7 +7,7 @@
 * Ensure application functions and appears as in the mock-up
 
 ## Mock-Up Reference
-[Reference for Horiseon-Homepage](./assets/images/mock-up.png)
+![Reference for Horiseon-Homepage](./assets/images/mock-up.png)
 ## GitHub Repository
 [GitHub Repo for Horiseon-Homepage](https://github.com/dolcebasstrombone/horiseon-code-refactor)
 ## Website
